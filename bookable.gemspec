@@ -23,5 +23,6 @@ Gem::Specification.new do |spec|
  
   spec.add_dependency 'jbuilder', '~> 2.0'
   spec.add_dependency 'rails_12factor'
+  spec.add_dependency 'responders', '~> 2.0'
 
 end
